@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+
+
+.homepage{
+  
+  background-image: url(https://images.pexels.com/photos/12255/pexels-photo-12255.jpeg?auto=compress&cs=tinysrgb&w=1600);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-wrap: wrap;
+ 
+
+ }
+
+ nav.navbar.navbar-expand-lg.navbar-light{
+  background-color: rgba(0, 0, 0, .7);
+
+ }
+
+ .homeextra {
+  height: 20vh;
+  background-color: rgba(0, 0, 0, .7);
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  justify-content: space-evenly;
+ }
+
+ .vl{
+  border-left: 2px solid black;
+  height: 30px;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
+ }
+
+ span.navbar-toggler-icon{
+background-color: blue;
+ }
+ button.navbar-toggler{
+  background-color: blue;
+ }
+
+
+ .blue{
+  color: blue;
+ }
