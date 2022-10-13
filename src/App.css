@@ -85,3 +85,72 @@ background-color: blue;
  .blue{
   color: blue;
  }
+
+ .about{
+  background-image: url(https://anchorfloors.com/wp-content/uploads/2020/03/flooring_slider1.png);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+ }
+
+ .insideabout{
+  background-color: rgba(0, 0, 0, .4);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: azure;
+  flex-direction: column;
+ }
+
+ .buttons{
+  display: flex;
+  justify-content: space-evenly;
+  width: 50vw;
+  margin-top: 2em;
+ }
+ .logo{
+  margin-right: 1em;
+  padding: 0px;
+  height: 58px;
+  width: 70px;
+ }
+
+ .pcontainer{
+  display: flex;
+  justify-content:end;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  overflow: auto;
+  height: 100vh;
+  width: 100vw;
+  background-image: url(https://images.pexels.com/photos/7027840/pexels-photo-7027840.jpeg?auto=compress&cs=tinysrgb&w=1600);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.works{
+  margin-left: 55px;
+  margin-top: 2em;
+  background-color: rgb(34, 32, 31);
+}
+
+.card{
+  background-color: rgb(34, 32, 31);
+
+}
+
+div.card-title.h5{
+  color: white
+}
+
+
+.contactContainer{
+  background-image: url();
+  height: 100vh;
+}
