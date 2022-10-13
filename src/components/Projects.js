@@ -5,6 +5,20 @@ function Projects() {
   return (
     <div className = "pcontainer">
 
+
+                <div className='works'>
+                <Card style={{ width: '18rem' }}>
+                <Card.Img variant="top" src="/23.jpg" />
+                <Card.Body>
+                    <Card.Title></Card.Title>
+                    <Card.Text>
+                    
+                    </Card.Text>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
+                </Card.Body>
+                </Card>
+                </div>
+
                 <div className='works'>   
                 <Card style={{ width: '18rem' }}>
                 <Card.Img variant="top" src="/1.jpg" />
@@ -13,7 +27,7 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>  
@@ -25,7 +39,7 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -37,7 +51,7 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -50,7 +64,7 @@ function Projects() {
                     <Card.Text>
                 
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -62,7 +76,7 @@ function Projects() {
                     <Card.Text>
                 
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -74,7 +88,7 @@ function Projects() {
                     <Card.Text>
             
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -86,10 +100,24 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
+
+                <div className='works'>
+                <Card style={{ width: '18rem' }}>
+                <Card.Img variant="top" src="/22.jpg" />
+                <Card.Body>
+                    <Card.Title></Card.Title>
+                    <Card.Text>
+                    
+                    </Card.Text>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
+                </Card.Body>
+                </Card>
+                </div>
+                
                 <div className='works'>
                 <Card style={{ width: '18rem' }}>
                 <Card.Img variant="top" src="/8.jpg" />
@@ -98,7 +126,7 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -110,7 +138,7 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -123,7 +151,7 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -136,7 +164,7 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -149,7 +177,7 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -162,7 +190,7 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -175,7 +203,7 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -189,7 +217,7 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -203,7 +231,7 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -217,7 +245,7 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -230,7 +258,7 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -243,7 +271,7 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>
@@ -257,7 +285,40 @@ function Projects() {
                     <Card.Text>
                     
                     </Card.Text>
-                    <Button variant="primary">Contact</Button>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
+                </Card.Body>
+                </Card>
+                </div>
+
+
+                <div className='works'>
+                <Card style={{ width: '18rem' }}>
+                <Card.Img variant="top" src="/21.jpg" />
+                <Card.Body>
+                    <Card.Title></Card.Title>
+                    <Card.Text>
+                    
+                    </Card.Text>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
+                </Card.Body>
+                </Card>
+                </div>
+
+
+                
+
+
+
+
+                <div className='works'>
+                <Card style={{ width: '18rem' }}>
+                <Card.Img variant="top" src="/24.jpg" />
+                <Card.Body>
+                    <Card.Title></Card.Title>
+                    <Card.Text>
+                    
+                    </Card.Text>
+                    <Button variant="primary"> <a sytle='text-decoration: none;'href="/contact">Contact</a></Button>
                 </Card.Body>
                 </Card>
                 </div>

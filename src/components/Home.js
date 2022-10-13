@@ -12,15 +12,15 @@ const Home = () => {
         </div>
 
         <div className='homeextra'>
-            <div> <h2 className="blue">15</h2> <br/>
+            <div> <h2 className="blue">20+</h2> <br/>
             <p >Years in Business</p>
             </div>
           
            <div className="vl"></div>
-           <div> <h2 className="blue">5000+</h2> <br/> <p> Projects Completed</p></div>
+           <div> <h2 className="blue">8000+</h2> <br/> <p> Projects Completed</p></div>
        
            <div className="vl"></div>
-           <div><h2 className="blue">1M+</h2> <br/> <p> SQFT Built</p></div>
+           <div><h2 className="blue">2M+</h2> <br/> <p> SQFT Built</p></div>
            
         </div>
         </>
